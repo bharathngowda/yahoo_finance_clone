@@ -32,15 +32,15 @@ Develop an application to input company tickers, generate comparative reports, a
 - Visualization Engine: Creates interactive visualizations for better data representation.
 
 # App Screenshots
-![App Screenshot](https://github.gamma.bcg.com/N-Bharath/streamlit/blob/main/screenshots/1.png)
-![App Screenshot](https://github.gamma.bcg.com/N-Bharath/streamlit/blob/main/screenshots/2.png) 
-![App Screenshot](https://github.gamma.bcg.com/N-Bharath/streamlit/blob/main/screenshots/3.png)
-![App Screenshot](https://github.gamma.bcg.com/N-Bharath/streamlit/blob/main/screenshots/4.png)
-![App Screenshot](https://github.gamma.bcg.com/N-Bharath/streamlit/blob/main/screenshots/5.png)
-![App Screenshot](https://github.gamma.bcg.com/N-Bharath/streamlit/blob/main/screenshots/6.png)
-![App Screenshot](https://github.gamma.bcg.com/N-Bharath/streamlit/blob/main/screenshots/7.png)
-![App Screenshot](https://github.gamma.bcg.com/N-Bharath/streamlit/blob/main/screenshots/8.png) 
-![App Screenshot](https://github.gamma.bcg.com/N-Bharath/streamlit/blob/main/screenshots/9.png)
+![App Screenshot](https://github.com/bharathngowda/yahoo_finance_clone/blob/main/screenshots/1.png)
+![App Screenshot](https://github.com/bharathngowda/yahoo_finance_clone/blob/main/screenshots/2.png) 
+![App Screenshot](https://github.com/bharathngowda/yahoo_finance_clone/blob/main/screenshots/3.png)
+![App Screenshot](https://github.com/bharathngowda/yahoo_finance_clone/blob/main/screenshots/4.png)
+![App Screenshot](https://github.com/bharathngowda/yahoo_finance_clone/blob/main/screenshots/5.png)
+![App Screenshot](https://github.com/bharathngowda/yahoo_finance_clone/blob/main/screenshots/6.png)
+![App Screenshot](https://github.com/bharathngowda/yahoo_finance_clone/blob/main/screenshots/7.png)
+![App Screenshot](https://github.com/bharathngowda/yahoo_finance_clone/blob/main/screenshots/8.png) 
+![App Screenshot](https://github.com/bharathngowda/yahoo_finance_clone/blob/main/screenshots/9.png)
 
 ## Programming Language and Packages
 
