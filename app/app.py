@@ -15,7 +15,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # global zip code data
-zip_code=pd.read_csv('../input/global_zip_code_data.csv',delimiter=';')
+zip_code=pd.read_csv('input/global_zip_code_data.csv',delimiter=';')
 
 # function
 def sentence_case(string):
